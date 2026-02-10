@@ -1,0 +1,314 @@
+[
+    {
+        "line": "Tring Tring!",
+        "start": 0,
+        "end": 3.11,
+        "section": "intro",
+        "mood": "funny",
+        "imageIndex": 0
+    },
+    {
+        "line": "Salary credited?",
+        "start": 3.11,
+        "end": 6,
+        "section": "intro",
+        "mood": "funny",
+        "imageIndex": 0
+    },
+    {
+        "line": "Haha... joke of the year!",
+        "start": 6,
+        "end": 9.13,
+        "section": "intro",
+        "mood": "funny",
+        "imageIndex": 0
+    },
+    {
+        "line": "Check the balance bro!",
+        "start": 9.13,
+        "end": 11,
+        "section": "intro",
+        "mood": "funny",
+        "imageIndex": 0
+    },
+    {
+        "line": "Let's go!",
+        "start": 11,
+        "end": 12,
+        "section": "intro",
+        "mood": "energetic",
+        "imageIndex": 0
+    },
+    {
+        "line": "Salary aayi, Salary gayi",
+        "start": 12,
+        "end": 14,
+        "section": "verse1",
+        "mood": "sad",
+        "imageIndex": 1
+    },
+    {
+        "line": "Message aaya phone pe, khushi hui sahi",
+        "start": 14,
+        "end": 16,
+        "section": "verse1",
+        "mood": "happy",
+        "imageIndex": 1
+    },
+    {
+        "line": "Par rent gaya, EMI gayi, bacha kuch nahi",
+        "start": 16,
+        "end": 19,
+        "section": "verse1",
+        "mood": "sad",
+        "imageIndex": 1
+    },
+    {
+        "line": "Account mein sannata, bas yaadein reh gayi!",
+        "start": 19,
+        "end": 22,
+        "section": "verse1",
+        "mood": "sad",
+        "imageIndex": 1
+    },
+    {
+        "line": "Subah utha toh sapna tha ameer banne ka",
+        "start": 22,
+        "end": 25,
+        "section": "verse1",
+        "mood": "dreamy",
+        "imageIndex": 2
+    },
+    {
+        "line": "Office pahuncha toh tension tha boss ke taane ka",
+        "start": 25,
+        "end": 27,
+        "section": "verse1",
+        "mood": "angry",
+        "imageIndex": 2
+    },
+    {
+        "line": "Sarkar boli \"Digital India\", hum toh digital bhikhari",
+        "start": 27,
+        "end": 29,
+        "section": "verse1",
+        "mood": "sarcastic",
+        "imageIndex": 3
+    },
+    {
+        "line": "Tax kat gaya source pe, jeb ho gayi khaali!",
+        "start": 29,
+        "end": 32,
+        "section": "verse1",
+        "mood": "angry",
+        "imageIndex": 3
+    },
+    {
+        "line": "Arre Nirmala ji... yeh kya kiya bhai?",
+        "start": 32,
+        "end": 34,
+        "section": "chorus",
+        "mood": "energetic",
+        "imageIndex": 4
+    },
+    {
+        "line": "Middle class ki kismat mein bas mehnat likhai?",
+        "start": 34,
+        "end": 37,
+        "section": "chorus",
+        "mood": "angry",
+        "imageIndex": 4
+    },
+    {
+        "line": "Tax pe tax, cess pe cess!",
+        "start": 37,
+        "end": 40,
+        "section": "chorus",
+        "mood": "energetic",
+        "imageIndex": 4
+    },
+    {
+        "line": "Zindagi ho gayi hai poora mess!",
+        "start": 40,
+        "end": 42,
+        "section": "chorus",
+        "mood": "angry",
+        "imageIndex": 4
+    },
+    {
+        "line": "(Oh no! Paisa gaya!)",
+        "start": 42,
+        "end": 44,
+        "section": "chorus",
+        "mood": "funny",
+        "imageIndex": 4
+    },
+    {
+        "line": "Budget aaya, TV lagaya, sunne ko speech",
+        "start": 44,
+        "end": 47,
+        "section": "verse2",
+        "mood": "sarcastic",
+        "imageIndex": 5
+    },
+    {
+        "line": "Socha milega relief, kuch toh milega beach?",
+        "start": 47,
+        "end": 49,
+        "section": "verse2",
+        "mood": "hopeful",
+        "imageIndex": 5
+    },
+    {
+        "line": "Par mila kya? Naya slab, naya confusion",
+        "start": 49,
+        "end": 52,
+        "section": "verse2",
+        "mood": "angry",
+        "imageIndex": 5
+    },
+    {
+        "line": "Savings ki toh ho gayi hai total illusion!",
+        "start": 52,
+        "end": 55,
+        "section": "verse2",
+        "mood": "sad",
+        "imageIndex": 5
+    },
+    {
+        "line": "Petrol mehenga, sabzi mehenga, mehenga hai pani",
+        "start": 55,
+        "end": 57,
+        "section": "verse2",
+        "mood": "angry",
+        "imageIndex": 6
+    },
+    {
+        "line": "Humari salary toh jaise bachpan ki kahani",
+        "start": 57,
+        "end": 60,
+        "section": "verse2",
+        "mood": "sad",
+        "imageIndex": 6
+    },
+    {
+        "line": "Aati hai shaan se, jaati hai dhoom se",
+        "start": 60,
+        "end": 62,
+        "section": "verse2",
+        "mood": "sarcastic",
+        "imageIndex": 7
+    },
+    {
+        "line": "Hum reh gaye wahin, apne chote room pe!",
+        "start": 62,
+        "end": 65,
+        "section": "verse2",
+        "mood": "sad",
+        "imageIndex": 7
+    },
+    {
+        "line": "Credit Card bill (Haaye Haaye!)",
+        "start": 65,
+        "end": 67,
+        "section": "bridge",
+        "mood": "panic",
+        "imageIndex": 8
+    },
+    {
+        "line": "Home Loan EMI (Haaye Haaye!)",
+        "start": 67,
+        "end": 69,
+        "section": "bridge",
+        "mood": "panic",
+        "imageIndex": 8
+    },
+    {
+        "line": "Weekend ki party (Bhool Jaa!)",
+        "start": 69,
+        "end": 72,
+        "section": "bridge",
+        "mood": "funny",
+        "imageIndex": 9
+    },
+    {
+        "line": "Savings account (Nil Bata Sannata!)",
+        "start": 72,
+        "end": 75,
+        "section": "bridge",
+        "mood": "sad",
+        "imageIndex": 9
+    },
+    {
+        "line": "Arre Nirmala ji... yeh kya kiya bhai?",
+        "start": 75,
+        "end": 78,
+        "section": "chorus",
+        "mood": "energetic",
+        "imageIndex": 10
+    },
+    {
+        "line": "Middle class ki kismat mein bas mehnat likhai?",
+        "start": 78,
+        "end": 80,
+        "section": "chorus",
+        "mood": "angry",
+        "imageIndex": 10
+    },
+    {
+        "line": "Tax pe tax, cess pe cess!",
+        "start": 80,
+        "end": 82,
+        "section": "chorus",
+        "mood": "energetic",
+        "imageIndex": 10
+    },
+    {
+        "line": "Zindagi ho gayi hai poora mess!",
+        "start": 82,
+        "end": 85,
+        "section": "chorus",
+        "mood": "angry",
+        "imageIndex": 10
+    },
+    {
+        "line": "Chalo bhai, kaam pe chalo.",
+        "start": 85,
+        "end": 87,
+        "section": "outro",
+        "mood": "calm",
+        "imageIndex": 11
+    },
+    {
+        "line": "Tax bhi toh bharna hai.",
+        "start": 87,
+        "end": 90,
+        "section": "outro",
+        "mood": "sarcastic",
+        "imageIndex": 11
+    },
+    {
+        "line": "Agale saal phir budget aayega.",
+        "start": 90,
+        "end": 93,
+        "section": "outro",
+        "mood": "funny",
+        "imageIndex": 11
+    },
+    {
+        "line": "Phir katwange!",
+        "start": 93,
+        "end": 95,
+        "section": "outro",
+        "mood": "funny",
+        "imageIndex": 11
+    },
+    {
+        "line": "Peace out!",
+        "start": 95,
+        "end": 96.19,
+        "section": "outro",
+        "mood": "calm",
+        "imageIndex": 11
+    }
+]
